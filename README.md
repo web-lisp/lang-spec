@@ -1,7 +1,6 @@
-# WebLISP Language Specification
-This repository will contain the formal specification for the WebLISP programming language. The specification provides a detailed description of the syntax, semantics, and features of the language.
+# The WebLISP Language Specification
 
-The specification is intended to serve as a reference for developers, language implementers, and users of the language. It is an evolving document and will be updated as the language develops.
+The WebLISP language specification repository contains the formal specification of the WebLISP programming language. This specification defines the syntax, semantics, and features of the language. It will provide a clear understanding of how the language works and what developers can expect from it. The repository will be the central source of truth for the language and will be used by developers to implement WebLISP compilers and interpreters. It will also be used to ensure that all WebLISP implementations are compatible with each other.
 
 ## TODO
 - [ ] Define the basic syntax of the language, including keywords, literals, and operators.
